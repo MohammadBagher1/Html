@@ -1,0 +1,36 @@
+﻿img {
+    clear: both;
+    float: left;
+    margin: 10px;
+}
+
+body {
+    front-size: 24px;
+}
+
+#eka {
+    float: left;
+}
+
+#toka {
+    clear: both;
+    float: right;
+}
+
+table {
+    border: 1px solid black;
+}
+th, td{
+    text-align: left;
+    padding:0px 10px;
+    border: 1px solid black;
+}
+th{
+    background-color:aquamarine;
+}
+tr:nth-child(odd){
+    background-color:aqua;
+}
+tr :nth-child(even){
+    background-color: aliceblue;
+}
