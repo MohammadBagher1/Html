@@ -20,6 +20,18 @@
     color: orange;
     font-size: 28px;
 }
+#number4 {
+    color:pink;
+    font-size: 36px;
+}
+#number5 {
+    color: purple;
+    font-size: 45px;
+}
+#number6 {
+    color:aqua;
+    font-size:100px;
+}
 
 
 #name-google-font {
@@ -46,5 +58,4 @@
 #font5 {
     font-family: 'Oswald', sans-serif;
 }
-
 

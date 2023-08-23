@@ -4,6 +4,7 @@
 }
 
     table thead th, thead td {
+        border: 1px solid black;
         background-color: #cbc9c9;
         font-weight: bold;
     }
@@ -12,6 +13,7 @@
         border: 1px solid #999;
         text-align: right;
     }
+    
 
     table tbody tr:nth-child(even) {
         background-color: #eeeeee;
@@ -28,4 +30,10 @@
 
 th {
     text-align: left;
+}
+#1{
+    background-color: grey;
+}
+#harmaa{
+    background-color: dimgrey;
 }
