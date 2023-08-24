@@ -25,8 +25,9 @@ input {
     
 }
 
-img{
-    clear:both;
+.eka{
+    clear: both;
+    float: left;
 }
 td:first-child {
     width: 40px;
@@ -40,8 +41,15 @@ fieldset{
     background-color: lightgrey;
 }
 main{
-    display: flex;
+    
 }
 aside{
-    flex: 1;
+    float: right;
+}
+article{
+    width: 800px;
+    float: left;
+}
+footer{
+    clear: both;
 }
