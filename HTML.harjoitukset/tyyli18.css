@@ -1,0 +1,47 @@
+﻿div{
+    text-align: center;
+    
+}
+hr {
+    height: 1px;
+    background-color: black;
+}
+#hrr1{
+    height: 1px;
+    background-color: deepskyblue;
+}
+toka{
+    color: lightgrey;
+}
+#eka{
+    float:left;
+}
+span {
+    color: grey;
+}
+
+input {
+    border: 1px solid;
+    
+}
+
+img{
+    clear:both;
+}
+td:first-child {
+    width: 40px;
+}
+table{
+    
+}
+fieldset{
+    width: 100px;
+    border-color: deepskyblue;
+    background-color: lightgrey;
+}
+main{
+    display: flex;
+}
+aside{
+    flex: 1;
+}
